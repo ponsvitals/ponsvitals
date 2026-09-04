@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/public/og-image.png" alt="PonsVitals — 22,851 launched today. 340 have a pulse." width="880">
+<img src="banner.png" alt="PonsVitals" width="100%">
 
 <br><br>
 
